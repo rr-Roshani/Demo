@@ -1,1 +1,1 @@
-<title>Project Name</title><b> Super Sales - Dashboard Project
+<b> Super Sales - Dashboard Project
